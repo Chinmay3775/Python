@@ -8,7 +8,6 @@ This repository contains a collection of Python practice programs to help unders
 - **Dictionary.py** - Covers operations and examples on Python dictionaries, such as creating, updating, and accessing dictionary elements.
 - **File_write_read.py** - Demonstrates file handling in Python, including reading from and writing to text files.
 - **Modules.ipynb** - Jupyter Notebook that explains the use of modules in Python, including importing and utilizing built-in and custom modules.
-- **README.md** - This file provides an overview of the repository contents and their functionality.
 - **continue.py** - A simple example demonstrating the use of the `continue` statement in loops.
 - **execptions.py** - Contains examples of handling exceptions using `try`, `except`, and `finally` blocks.
 - **for_loop.py** - Demonstrates the use of `for` loops in Python with different examples.
